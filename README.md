@@ -1,2 +1,2 @@
 # gitcn
-A Git Micro Server
+Git Controller
